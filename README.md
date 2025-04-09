@@ -8,4 +8,4 @@ Außerdem enthält es die numerischen Approximationen, um die Bedingungen für d
 Das Programm "Abbildung_7_Bildsegmentierung" ist die Implementierung der in Abschnitt 4.4 vorgestellten Segmentierungsmethode.
 Das zu Testzwecken verwendete Bild "abraham_lincoln_graustufen"  stammt von Gordon Johnson (GDJ) und wird unter der Pixabay-Inhaltslizenz verwendet (url: https://pixabay.com/de/vectors/person-mann-abraham-lincoln-5432770/).
 
-Innerhalb eines Programms muss die Ausführung der Blöcke in der vorgegebenen Reihenfolge erfolgen, da sie aufeinander aufbauen.
+Innerhalb eines Programms muss die Ausführung der Blöcke in der vorgegebenen Reihenfolge erfolgen, da diese aufeinander aufbauen.
